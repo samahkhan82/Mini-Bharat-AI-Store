@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+pydantic
+pandas
+numpy
+scikit-learn
+python-multipart
+python-dotenv
+python-dateutil

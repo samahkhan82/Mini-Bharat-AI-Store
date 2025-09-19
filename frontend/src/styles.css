@@ -1,0 +1,13 @@
+.chat-root{width:420px;margin:20px auto;border:1px solid #ddd;padding:12px;border-radius:8px}
+.chat-window{height:400px;overflow:auto;background:#fafafa;padding:8px}
+.msg{margin:8px 0;padding:8px;border-radius:6px}
+.msg.user{background:#dcf8c6;text-align:right}
+.msg.bot{background:#fff}
+.chat-input{display:flex;gap:8px;margin-top:8px}
+.quick{margin-top:8px;display:flex;gap:6px}
+
+
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
